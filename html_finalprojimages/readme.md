@@ -1,0 +1,8 @@
+This directory has all The images used in the final project.![react](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/35f0c02f-b0d3-49e2-8e49-503ef313ba0c)
+![python](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/14bfc321-f115-4654-b5ec-c0055cdfe13e)
+![node](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/5c8ec226-8bbd-42c9-8f84-97e6f3834263)
+![js](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/f9f28387-f49a-4324-90e7-7abfa4d628ac)
+![git](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/f56707e5-ae72-4006-986a-b12dcee1f4d1)
+![docker](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/294640e0-fce3-45d0-84e9-7ba5a01e6989)
+![django](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/18058d0c-9f99-4ed6-b7c0-c87a329284e2)
+![API](https://github.com/mohammadjahanchi/my-portfolio/assets/128882882/ace43a3e-3adf-4c51-9efe-5778a37f9604)
